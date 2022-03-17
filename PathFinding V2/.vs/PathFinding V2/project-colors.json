@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c51d0c4a-1b4c-455d-bb69-83003cbd229f": {
+      "ProjectGuid": "c51d0c4a-1b4c-455d-bb69-83003cbd229f",
+      "DisplayName": "PathFinding V2",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

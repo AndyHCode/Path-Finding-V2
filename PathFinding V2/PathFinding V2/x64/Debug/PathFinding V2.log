@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Andy\source\repos\PathFinding V2\PathFinding V2\Source.cpp(53,7): warning C4101: 'key': unreferenced local variable
+C:\Users\Andy\source\repos\PathFinding V2\PathFinding V2\Source.cpp(103,7): warning C4101: 'key': unreferenced local variable
+C:\Users\Andy\source\repos\PathFinding V2\PathFinding V2\Source.cpp(153,7): warning C4101: 'key': unreferenced local variable
+  PathFinding V2.vcxproj -> C:\Users\Andy\source\repos\PathFinding V2\x64\Debug\PathFinding V2.exe
